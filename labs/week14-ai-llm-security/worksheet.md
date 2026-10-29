@@ -242,6 +242,7 @@ Marketing plans for Q4 follow in appendix B.
   byte-identical for the whole cohort *by design*, so the stamp is the only thing that makes
   the shot yours. Generic or borrowed evidence is not accepted.
 - **Personalized flag (if this lab issues one):** `FLAG{promptinj_62579d3d8a123786}`
+  ![Guarded chatbot bypassed — personalized flag leaked](img/wk14-Flag.png)
   *Flags are unique per student — submitting another student's flag is a violation. How to submit: **learn.zcr.ai/submit** (full guide: [SUBMISSION.md](../../SUBMISSION.md)).*
 - **Explain in your own words** *(graded on your reasoning, not copied text):*
   1. What did you do, and **why did the vulnerability work**?
